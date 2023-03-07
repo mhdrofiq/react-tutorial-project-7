@@ -24,5 +24,5 @@ A preview of the page is shown below.
 ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview4.png)
 <br><i>delete button appears when hovered over a note</i>
 
-![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview4.png)
+![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview5.png)
 <br><i>note is deleted</i>
