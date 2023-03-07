@@ -13,16 +13,16 @@ This is a dynamic webpage made using ReactJs. In this case, an existing code bas
 A preview of the page is shown below.
 
 ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview1.png)
-<i>Save and sync notes to the browser</i>
+<br><i>Save and sync notes to the browser</i>
 
 ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview2.png)
-<i>First line in note becomes its title in sidebar</i>
+<br><i>First line in note becomes its title in sidebar</i>
 
 ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview3.png)
-<i>Most recently edited note becomes the top note</i>
+<br><i>Most recently edited note becomes the top note</i>
 
 ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview4.png)
-<i>delete button appears when hovered over a note</i>
+<br><i>delete button appears when hovered over a note</i>
 
 ![Preview image](https://github.com/mhdrofiq/react-tutorial-project-7/blob/master/preview4.png)
-<i>note is deleted</i>
+<br><i>note is deleted</i>
